@@ -1,4 +1,0 @@
-(defun verbose-sum (x y)
-  "add two number after displaying message"
-  (format t "Summing ~d and ~d.~%" x y)
-  (+ x y))
